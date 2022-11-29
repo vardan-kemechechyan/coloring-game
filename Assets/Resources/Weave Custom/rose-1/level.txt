@@ -1,0 +1,3 @@
+190ab296463799a0ecf20d5e11679ca7
+Assets/Resources/Weave Custom/rose-1
+local

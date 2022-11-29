@@ -1,0 +1,12 @@
+a7b701b9128edfd093854e3a4443b378
+Assets/Resources/Weave Custom/Chameleon
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/Chameleon-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/Chameleon-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/Chameleon-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/Chameleon-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/Chameleon-atlas-3.png
+https://s3.eu-central-1.wasabisys.com/weave-games/Chameleon-atlas-4.png

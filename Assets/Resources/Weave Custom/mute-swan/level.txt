@@ -1,0 +1,11 @@
+016a0904a656a46ca94f1af78a579b55
+Assets/Resources/Weave Custom/mute-swan
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/mute-swan-bytes.bytes
+100
+true
+-1
+https://s3.eu-central-1.wasabisys.com/weave-games/mute-swan-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/mute-swan-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/mute-swan-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/mute-swan-atlas-3.png

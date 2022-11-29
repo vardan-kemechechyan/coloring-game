@@ -1,0 +1,11 @@
+6ded99f9a795df93421ca4f8a13022ff
+Assets/Resources/Weave Custom/avto-devushka-cafe
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/avto-devushka-cafe-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/avto-devushka-cafe-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/avto-devushka-cafe-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/avto-devushka-cafe-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/avto-devushka-cafe-atlas-3.png

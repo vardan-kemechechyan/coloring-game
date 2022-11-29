@@ -1,0 +1,11 @@
+3111e5248881be1ea9fdac8daaa2d1b5
+Assets/Resources/Weave Custom/Breakfast
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/Breakfast-bytes.bytes
+200
+true
+-1
+https://s3.eu-central-1.wasabisys.com/weave-games/Breakfast-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/Breakfast-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/Breakfast-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/Breakfast-atlas-3.png

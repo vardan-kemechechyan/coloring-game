@@ -1,0 +1,10 @@
+bb85700dd36df82949ab90ea4d4a5814
+Assets/Resources/Weave Custom/ulica-raduga
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/ulica-raduga-bytes.bytes
+100
+false
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/ulica-raduga-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/ulica-raduga-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/ulica-raduga-atlas-2.png

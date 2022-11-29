@@ -1,0 +1,11 @@
+d0f9bc4dbcebd6c3248c26f6e36d6575
+Assets/Resources/Weave Custom/jagodi
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/jagodi-bytes.bytes
+100
+true
+-1
+https://s3.eu-central-1.wasabisys.com/weave-games/jagodi-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/jagodi-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/jagodi-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/jagodi-atlas-3.png

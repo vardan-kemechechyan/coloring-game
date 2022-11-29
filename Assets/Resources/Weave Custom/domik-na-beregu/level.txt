@@ -1,0 +1,11 @@
+0fc18bbbbf6761074671f3ce75827431
+Assets/Resources/Weave Custom/domik-na-beregu
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/domik-na-beregu-bytes.bytes
+100
+true
+-1
+https://s3.eu-central-1.wasabisys.com/weave-games/domik-na-beregu-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/domik-na-beregu-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/domik-na-beregu-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/domik-na-beregu-atlas-3.png

@@ -1,0 +1,11 @@
+48fb914f000eaf3583f50b6b3515b6a3
+Assets/Resources/Weave Custom/yacht-deck
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/yacht-deck-bytes.bytes
+100
+true
+-1
+https://s3.eu-central-1.wasabisys.com/weave-games/yacht-deck-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/yacht-deck-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/yacht-deck-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/yacht-deck-atlas-3.png

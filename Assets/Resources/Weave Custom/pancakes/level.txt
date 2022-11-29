@@ -1,0 +1,12 @@
+ce6fccc1b77fc99436b67d943b135e04
+Assets/Resources/Weave Custom/pancakes
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/pancakes-bytes.bytes
+200
+true
+200
+https://s3.eu-central-1.wasabisys.com/weave-games/pancakes-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/pancakes-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/pancakes-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/pancakes-atlas-3.png
+https://s3.eu-central-1.wasabisys.com/weave-games/pancakes-atlas-4.png

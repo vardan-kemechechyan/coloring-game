@@ -1,0 +1,12 @@
+d0e5be251375c9236460c9aa11db586d
+Assets/Resources/Weave Custom/02-eda
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/02-eda-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/02-eda-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/02-eda-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/02-eda-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/02-eda-atlas-3.png
+https://s3.eu-central-1.wasabisys.com/weave-games/02-eda-atlas-4.png

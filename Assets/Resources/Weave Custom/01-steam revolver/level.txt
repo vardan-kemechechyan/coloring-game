@@ -1,0 +1,12 @@
+5f8eff466bfe6b294bea91744a3a72cc
+Assets/Resources/Weave Custom/01-steam revolver
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/steam-revolver-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/steam-revolver-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/steam-revolver-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/steam-revolver-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/steam-revolver-atlas-3.png
+https://s3.eu-central-1.wasabisys.com/weave-games/steam-revolver-atlas-4.png

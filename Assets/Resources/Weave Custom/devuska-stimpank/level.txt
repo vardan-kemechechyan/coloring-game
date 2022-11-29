@@ -1,0 +1,11 @@
+393e471804f42d2f0413296526326331
+Assets/Resources/Weave Custom/devuska-stimpank
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/devuska-stimpank-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/devuska-stimpank-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/devuska-stimpank-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/devuska-stimpank-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/devuska-stimpank-atlas-3.png

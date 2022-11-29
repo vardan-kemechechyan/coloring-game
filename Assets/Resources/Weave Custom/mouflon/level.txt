@@ -1,0 +1,10 @@
+dd2d6138a07d3330db2f27bb4556ba59
+Assets/Resources/Weave Custom/mouflon
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/mouflon-bytes.bytes
+200
+true
+200
+https://s3.eu-central-1.wasabisys.com/weave-games/mouflon-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/mouflon-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/mouflon-atlas-2.png

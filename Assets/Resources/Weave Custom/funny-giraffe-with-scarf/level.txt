@@ -1,0 +1,3 @@
+5c9f3cca5067559ca920977da9b30495
+Assets/Resources/Weave Custom/funny-giraffe-with-scarf
+local

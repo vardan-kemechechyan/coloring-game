@@ -1,0 +1,3 @@
+db7fae7a0b63d5f48ce03edd977013f1
+Assets/Resources/Weave Custom/zentangle-fox-head
+local

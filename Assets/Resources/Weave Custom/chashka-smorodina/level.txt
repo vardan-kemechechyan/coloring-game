@@ -1,0 +1,10 @@
+554fb75380f4b57979c540d26c632533
+Assets/Resources/Weave Custom/chashka-smorodina
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/chashka-smorodina-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/chashka-smorodina-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/chashka-smorodina-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/chashka-smorodina-atlas-2.png

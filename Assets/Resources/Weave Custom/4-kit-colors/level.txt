@@ -1,0 +1,12 @@
+cf274f41832028db1e19ace22d38d965
+Assets/Resources/Weave Custom/4-kit-colors
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/4-kit-colors-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/4-kit-colors-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/4-kit-colors-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/4-kit-colors-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/4-kit-colors-atlas-3.png
+https://s3.eu-central-1.wasabisys.com/weave-games/4-kit-colors-atlas-4.png

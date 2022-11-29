@@ -1,0 +1,3 @@
+5d09591d51a791f04676c573ef9a3c5e
+Assets/Resources/Weave Custom/cute-baby-husky-with-a-bowtie
+local

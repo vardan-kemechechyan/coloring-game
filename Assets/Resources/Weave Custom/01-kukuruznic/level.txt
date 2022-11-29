@@ -1,0 +1,10 @@
+e4fbcc2a17f105b4997d1bc78d70edf7
+Assets/Resources/Weave Custom/01-kukuruznic
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/kukuruznic-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/kukuruznic-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/kukuruznic-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/kukuruznic-atlas-2.png

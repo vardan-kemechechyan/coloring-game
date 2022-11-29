@@ -1,0 +1,12 @@
+752a1e65ef4f20251e5cd7625453e291
+Assets/Resources/Weave Custom/butterfly-peacock-eye
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/butterfly-peacock-eye-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/butterfly-peacock-eye-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/butterfly-peacock-eye-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/butterfly-peacock-eye-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/butterfly-peacock-eye-atlas-3.png
+https://s3.eu-central-1.wasabisys.com/weave-games/butterfly-peacock-eye-atlas-4.png

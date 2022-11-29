@@ -1,0 +1,10 @@
+04b69bdd832c996a2bc001e201a62406
+Assets/Resources/Weave Custom/san-francisco
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/san-francisco-bytes.bytes
+200
+true
+200
+https://s3.eu-central-1.wasabisys.com/weave-games/san-francisco-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/san-francisco-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/san-francisco-atlas-2.png

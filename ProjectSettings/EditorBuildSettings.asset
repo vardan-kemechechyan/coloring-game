@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PictureColoring/Scenes/Main.unity
+    guid: c000c1bb7be734c949fece3979846f30
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 437a6b9be16a9d243afeaeebbc7683d8,
+      type: 2}

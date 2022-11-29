@@ -1,0 +1,13 @@
+5f4d996b049f0d982f16f18d8bc6d863
+Assets/Resources/Weave Custom/cveti-na-okne
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/cveti-na-okne-bytes.bytes
+200
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/cveti-na-okne-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cveti-na-okne-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cveti-na-okne-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cveti-na-okne-atlas-3.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cveti-na-okne-atlas-4.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cveti-na-okne-atlas-5.png

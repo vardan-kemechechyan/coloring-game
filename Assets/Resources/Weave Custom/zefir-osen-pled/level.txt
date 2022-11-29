@@ -1,0 +1,11 @@
+ff4c42b08c0ff2f9e1953a83afcb625a
+Assets/Resources/Weave Custom/zefir-osen-pled
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/zefir-osen-pled-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/zefir-osen-pled-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/zefir-osen-pled-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/zefir-osen-pled-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/zefir-osen-pled-atlas-3.png

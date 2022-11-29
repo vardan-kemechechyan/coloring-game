@@ -1,0 +1,15 @@
+4a711849036a04c87e43dea72d40d34c
+Assets/Resources/Weave Custom/girl-dog
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/girl-dog-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/girl-dog-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/girl-dog-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/girl-dog-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/girl-dog-atlas-3.png
+https://s3.eu-central-1.wasabisys.com/weave-games/girl-dog-atlas-4.png
+https://s3.eu-central-1.wasabisys.com/weave-games/girl-dog-atlas-5.png
+https://s3.eu-central-1.wasabisys.com/weave-games/girl-dog-atlas-6.png
+https://s3.eu-central-1.wasabisys.com/weave-games/girl-dog-atlas-7.png

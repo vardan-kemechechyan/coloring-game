@@ -1,0 +1,3 @@
+313102748f297025f7ff37740af0504a
+Assets/Resources/Weave Custom/rose
+local

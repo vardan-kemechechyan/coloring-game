@@ -1,0 +1,12 @@
+b0c8b6ba459ba98944cbe66b18fb4031
+Assets/Resources/Weave Custom/losos-doska
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/losos-doska-bytes.bytes
+100
+true
+-1
+https://s3.eu-central-1.wasabisys.com/weave-games/losos-doska-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/losos-doska-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/losos-doska-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/losos-doska-atlas-3.png
+https://s3.eu-central-1.wasabisys.com/weave-games/losos-doska-atlas-4.png

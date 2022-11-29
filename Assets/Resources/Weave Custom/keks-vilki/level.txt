@@ -1,0 +1,13 @@
+f7361a71dde9083277c754f1c4d1eabc
+Assets/Resources/Weave Custom/keks-vilki
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/keks-vilki-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/keks-vilki-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/keks-vilki-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/keks-vilki-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/keks-vilki-atlas-3.png
+https://s3.eu-central-1.wasabisys.com/weave-games/keks-vilki-atlas-4.png
+https://s3.eu-central-1.wasabisys.com/weave-games/keks-vilki-atlas-5.png

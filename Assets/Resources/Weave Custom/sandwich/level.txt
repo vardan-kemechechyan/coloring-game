@@ -1,0 +1,11 @@
+a563a5f6f38584a73d202bc6ede443c1
+Assets/Resources/Weave Custom/sandwich
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/sandwich-bytes.bytes
+100
+false
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/sandwich-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/sandwich-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/sandwich-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/sandwich-atlas-3.png

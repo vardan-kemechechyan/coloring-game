@@ -1,0 +1,3 @@
+088f1a918477d438e709540a35c94c1c
+Assets/Resources/Weave Custom/chinese-traditional-pattern-with-egret
+local

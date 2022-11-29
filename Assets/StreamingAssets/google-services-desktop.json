@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420145059009",
+    "project_id": "painting-art---color-by-number",
+    "storage_bucket": "painting-art---color-by-number.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420145059009:android:f75b6eee4931356b67b040",
+        "android_client_info": {
+          "package_name": "color.by.number.painting.art"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420145059009-g3flq0nsf1hig7a6pse2ud7n0kt5ohi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzjv0vjjdTD5s0Dl1e8rX46xx4kidZbPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420145059009-g3flq0nsf1hig7a6pse2ud7n0kt5ohi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

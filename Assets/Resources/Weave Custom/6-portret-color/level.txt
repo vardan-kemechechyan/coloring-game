@@ -1,0 +1,10 @@
+272ba9552f4bfae52112ab8f89af6459
+Assets/Resources/Weave Custom/6-portret-color
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/6-portret-color-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/6-portret-color-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/6-portret-color-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/6-portret-color-atlas-2.png

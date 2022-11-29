@@ -1,0 +1,3 @@
+29cffb39589eddb88bb09db530f5ea37
+Assets/Resources/Weave Custom/mandala
+local

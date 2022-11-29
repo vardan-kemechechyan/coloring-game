@@ -1,0 +1,11 @@
+4efb42186df2c5823dbe6e7574a8d619
+Assets/Resources/Weave Custom/cake-house
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/cake-house-bytes.bytes
+200
+true
+-1
+https://s3.eu-central-1.wasabisys.com/weave-games/cake-house-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cake-house-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cake-house-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cake-house-atlas-3.png

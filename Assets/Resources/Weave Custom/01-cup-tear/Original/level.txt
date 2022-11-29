@@ -1,0 +1,12 @@
+fbfd3b2016deda09671930002014fd4b
+Assets/Resources/Weave Custom/01-cup-tear
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/cup-tear-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/cup-tear-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cup-tear-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cup-tear-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cup-tear-atlas-3.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cup-tear-atlas-4.png

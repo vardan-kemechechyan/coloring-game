@@ -1,0 +1,11 @@
+ba4ba6d9571e1b9f03af14f127acdea6
+Assets/Resources/Weave Custom/siniza-zveti
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/siniza-zveti-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/siniza-zveti-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/siniza-zveti-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/siniza-zveti-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/siniza-zveti-atlas-3.png

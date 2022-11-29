@@ -1,0 +1,10 @@
+7407522f2f35bb870ec36a93fb019e84
+Assets/Resources/Weave Custom/cafe-retro-avto
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/cafe-retro-avto-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/cafe-retro-avto-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cafe-retro-avto-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/cafe-retro-avto-atlas-2.png

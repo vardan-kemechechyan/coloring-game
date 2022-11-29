@@ -1,0 +1,12 @@
+69dc83d13231bb965c1f1e4f05b44812
+Assets/Resources/Weave Custom/eda-obed
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/eda-obed-bytes.bytes
+100
+true
+-1
+https://s3.eu-central-1.wasabisys.com/weave-games/eda-obed-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/eda-obed-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/eda-obed-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/eda-obed-atlas-3.png
+https://s3.eu-central-1.wasabisys.com/weave-games/eda-obed-atlas-4.png

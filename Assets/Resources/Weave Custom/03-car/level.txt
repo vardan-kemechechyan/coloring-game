@@ -1,0 +1,11 @@
+e17a5b04dd68e54edda2a346491b8d87
+Assets/Resources/Weave Custom/03-car
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/03-car-bytes.bytes
+100
+true
+-1
+https://s3.eu-central-1.wasabisys.com/weave-games/03-car-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/03-car-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/03-car-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/03-car-atlas-3.png

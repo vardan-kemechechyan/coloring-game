@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f3f744588d8dc474a89d550633227519
+  m_SerializeEntries:
+  - m_GUID: 2f88255e287360a459d2b31c7c588612
+    m_Address: Assets/Resources/Weave Custom/rose-1/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de1e80093f020534c91ae7c237e42d9d
+    m_Address: Assets/Resources/Weave Custom/rose-1/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 251a32d002ced054b89a756c6c62d2d8
+    m_Address: Assets/Resources/Weave Custom/rose/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d1610fd10e7d864a838b27eaee6f761
+    m_Address: Assets/Resources/Weave Custom/rose/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89b1f722181a80e47909c42eda162e76
+    m_Address: Assets/Resources/Weave Custom/mandala/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72abe96c5636a404893ca896e5cbe752
+    m_Address: Assets/Resources/Weave Custom/mandala/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b00b653ddba47c1449d5ce2ab1932b99
+    m_Address: Assets/Resources/Weave Custom/funny-giraffe-with-scarf/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8880dc12dab08a942924d36d0ac9eb48
+    m_Address: Assets/Resources/Weave Custom/funny-giraffe-with-scarf/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 257019c95183706469c06f857779b94c
+    m_Address: Assets/Resources/Weave Custom/flower-mandala-1/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e05d249e8017d4419bcde24aec5c1cf
+    m_Address: Assets/Resources/Weave Custom/flower-mandala-1/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 562806f645cc34d409169e4208abccd7
+    m_Address: Assets/Resources/Weave Custom/chinese-traditional-pattern-with-mandarin-ducks/atlas_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b119716c08bc8f4e817c1478c3f0260
+    m_Address: Assets/Resources/Weave Custom/chinese-traditional-pattern-with-mandarin-ducks/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10105925586b80a438eff63971566f8f
+    m_Address: Assets/Resources/Weave Custom/chinese-traditional-pattern-with-mandarin-ducks/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0be9943a1ccc387439d4a88fa5f3aec2
+    m_Address: Assets/Resources/Weave Custom/chinese-traditional-pattern-with-egret/atlas_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b58ca6968c03a54e9bcd45e58b7ec6c
+    m_Address: Assets/Resources/Weave Custom/chinese-traditional-pattern-with-egret/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52fc559dad1026d429e46bf2372b1085
+    m_Address: Assets/Resources/Weave Custom/chinese-traditional-pattern-with-egret/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30297aa046735f2428892ab7b865242d
+    m_Address: Assets/Resources/Weave Custom/cats-with-heart-balloons/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 79fe2f7737937434f8595d9e6bdac4fe
+    m_Address: Assets/Resources/Weave Custom/cats-with-heart-balloons/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0824b03a1b37d34585581c10f00f077
+    m_Address: Assets/Resources/Weave Custom/bat-cat-and-pumpkin/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac765574aa938644ba7b137234ea6ec8
+    m_Address: Assets/Resources/Weave Custom/bat-cat-and-pumpkin/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5beadba94b79fe4489075f8550c8d01
+    m_Address: Assets/Resources/Weave Custom/zentangle-fox-head/atlas_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a81cffb715c33e4096368bcc71d5e6a
+    m_Address: Assets/Resources/Weave Custom/zentangle-fox-head/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36bac068d7ca4b14ca817d2e408c6326
+    m_Address: Assets/Resources/Weave Custom/zentangle-fox-head/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2e0b77bf0c8774458adf2b551db0097
+    m_Address: Assets/Resources/Weave Custom/funny-yorkshire-terrier-with-bandana/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e7d1b701ef5e1ad41b7a5c7dffa17baa
+    m_Address: Assets/Resources/Weave Custom/funny-yorkshire-terrier-with-bandana/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 246b7f69ab3611648ad1c605facbd6b6
+    m_Address: Assets/Resources/Weave Custom/cute-baby-husky-with-a-bowtie/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6627ebbb2ba9ba488c2f9a13711bd0b
+    m_Address: Assets/Resources/Weave Custom/cute-baby-husky-with-a-bowtie/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a36cdefdf6b17f4197182789035eb9c
+    m_Address: Assets/Resources/Weave Custom/lily-flower/atlas_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 017ac94b5d789044595697a455b01839
+    m_Address: Assets/Resources/Weave Custom/lily-flower/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f482d24bac0a5d43b642d225a27ecec
+    m_Address: Assets/Resources/Weave Custom/lily-flower/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d242c928a04996429101b62c6a410a5
+    m_Address: Assets/Resources/Weave Custom/flower-mandala/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4507ca3a328538c4ebadf6a0b18eab7a
+    m_Address: Assets/Resources/Weave Custom/flower-mandala/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5d70eabb3cba6042acdfb4213a8893b
+    m_Address: Assets/Resources/Weave Custom/bowling-pins-and-stars/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 408146bdd9d05574c8ec7b26a84f975b
+    m_Address: Assets/Resources/Weave Custom/bowling-pins-and-stars/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fdc14c6736553224f9863b698bc71fd4
+    m_Address: Assets/Resources/Weave Custom/baby-fox-in-a-mask/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b65a013ca4080894ea206df572aecda3
+    m_Address: Assets/Resources/Weave Custom/baby-fox-in-a-mask/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 415d72e4d642596479394c630dd6711d
+    m_Address: Assets/Resources/Weave Custom/Citrus_color/atlas_5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 671c121f6bf9ae942bfd27a1a033aee6
+    m_Address: Assets/Resources/Weave Custom/Citrus_color/atlas_4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab1362f991b3ccf42af90e3b77bfb631
+    m_Address: Assets/Resources/Weave Custom/Citrus_color/atlas_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed0844bff94b313448925ab396d7f6db
+    m_Address: Assets/Resources/Weave Custom/Citrus_color/atlas_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 046160cc118619b4cbe984d787cf2dab
+    m_Address: Assets/Resources/Weave Custom/Citrus_color/atlas_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65dd7da144b6fb8459d3c82d4439cd92
+    m_Address: Assets/Resources/Weave Custom/Citrus_color/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6591b2fc9bd7c34597af1e935123493
+    m_Address: Assets/Resources/Weave Custom/Citrus_color/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa9f5443078748f4497de309b0b446df
+    m_Address: Assets/Resources/Weave Custom/Magichouse_color/atlas_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef68cee864635494eb89069b91937359
+    m_Address: Assets/Resources/Weave Custom/Magichouse_color/atlas_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17a1a1f69eb703f42a36a68bc7c93d1d
+    m_Address: Assets/Resources/Weave Custom/Magichouse_color/atlas_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 561edfc2f57ff824cbdbd824a76a3d27
+    m_Address: Assets/Resources/Weave Custom/Magichouse_color/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4dd88eab7972054c9dae525bd4d4d43
+    m_Address: Assets/Resources/Weave Custom/Magichouse_color/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9556de779f4b18d4a981ce382b8599ef
+    m_Address: Assets/Resources/Weave Custom/Girlblue/atlas_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae5b6f82b3264674d9778ddba9b51462
+    m_Address: Assets/Resources/Weave Custom/Girlblue/atlas_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91e2ea5848a849f41848798ba81ad8ae
+    m_Address: Assets/Resources/Weave Custom/Girlblue/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf3cce7952400a0498c5c93ee4c48f43
+    m_Address: Assets/Resources/Weave Custom/Girlblue/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b44de1f354f7dbf478eba7b101815202
+    m_Address: Assets/Resources/Weave Custom/01-girl selfy-color/atlas_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e661d8c4416eb14dbe737884dec4613
+    m_Address: Assets/Resources/Weave Custom/01-girl selfy-color/atlas_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9620784b779d6e848a16e2cc99f2cb4d
+    m_Address: Assets/Resources/Weave Custom/01-girl selfy-color/atlas_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f51f26a9bfaa2f47a615a34de1784bc
+    m_Address: Assets/Resources/Weave Custom/01-girl selfy-color/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64745574b26ce234ca0fb1529b2715da
+    m_Address: Assets/Resources/Weave Custom/01-girl selfy-color/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d384de96c2dddc47818d54d49537654
+    m_Address: Assets/Resources/Weave Custom/01_inter_color/atlas_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b132f833c4f49234e9cc03048f122892
+    m_Address: Assets/Resources/Weave Custom/01_inter_color/atlas_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c726f180ce30124eb7b68b84380e92a
+    m_Address: Assets/Resources/Weave Custom/01_inter_color/atlas_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a8c3e211e237384584316ae81ee03ce
+    m_Address: Assets/Resources/Weave Custom/01_inter_color/atlas_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16fd9ef13834e634bb8a291bf261f5ae
+    m_Address: Assets/Resources/Weave Custom/01_inter_color/bytes.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a7fcee1d11b0d114ab3c0bb1056c82da, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eb964cf08844f354eb3e49b7a93f2887, type: 2}
+    - {fileID: 11400000, guid: 11ab0ca76d57a8543a513879a2b99b00, type: 2}

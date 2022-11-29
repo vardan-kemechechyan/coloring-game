@@ -1,0 +1,11 @@
+0b361cc04a0e6ce2f007c149800fe1df
+Assets/Resources/Weave Custom/rainbow_toucan
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/rainbow_toucan-bytes.bytes
+100
+false
+-1
+https://s3.eu-central-1.wasabisys.com/weave-games/rainbow_toucan-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/rainbow_toucan-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/rainbow_toucan-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/rainbow_toucan-atlas-3.png

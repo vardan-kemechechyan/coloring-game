@@ -1,0 +1,11 @@
+eb7f34bf7d40314275511c5c72fc20af
+Assets/Resources/Weave Custom/osen-botinki
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/osen-botinki-bytes.bytes
+100
+true
+100
+https://s3.eu-central-1.wasabisys.com/weave-games/osen-botinki-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/osen-botinki-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/osen-botinki-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/osen-botinki-atlas-3.png

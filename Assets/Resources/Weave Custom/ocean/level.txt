@@ -1,0 +1,11 @@
+d5083590f04ad2fdd0d9a8377ec9b804
+Assets/Resources/Weave Custom/ocean
+web
+https://s3.eu-central-1.wasabisys.com/weave-games/ocean-bytes.bytes
+200
+true
+200
+https://s3.eu-central-1.wasabisys.com/weave-games/ocean-atlas-0.png
+https://s3.eu-central-1.wasabisys.com/weave-games/ocean-atlas-1.png
+https://s3.eu-central-1.wasabisys.com/weave-games/ocean-atlas-2.png
+https://s3.eu-central-1.wasabisys.com/weave-games/ocean-atlas-3.png
